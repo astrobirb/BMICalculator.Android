@@ -1,0 +1,17 @@
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/BMICalculator.Android.csproj.CoreCompileInputs.cache
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/bin/Debug/BMICalculator.Android.dll
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/bin/Debug/BMICalculator.Android.pdb
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/bin/Debug/com.companyname.BMICalculator_Android.apk
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/bin/Debug/com.companyname.BMICalculator_Android-Signed.apk
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/BMICalculator.Android.dll
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/BMICalculator.Android.pdb
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/android/bin/com.companyname.BMICalculator_Android.apk
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/layout/main.xml
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/values/strings.xml
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/R.cs.flag
+/Users/nicolef10/Desktop/repos/BMICalculator.Android/BMICalculator.Android/obj/Debug/uploadflags.txt

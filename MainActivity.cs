@@ -18,10 +18,10 @@ namespace BMICalculator.Android
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            calculateButton = FindViewById<Button> (BMICalculator.Android.Resources.Id.calculateButton);
-            resultTextView = FindViewById<TextView> (BMICalculator.Android.Resources.Id.resultTextView);
-            heightEditText = FindViewById<EditText> (BMICalculator.Android.Resources.Id.heightEdittext);
-            weightEditText = FindViewById<EditText> (BMICalculator.Android.Resources.Id.weightEditText);
+       //     calculateButton = FindViewById<Button> (BMICalculator.Android.Resources.Id.calculateButton);
+      //      resultTextView = FindViewById<TextView> (BMICalculator.Android.Resources.Id.resultTextView);
+       //     heightEditText = FindViewById<EditText> (BMICalculator.Android.Resources.Id.heightEdittext);
+       //     weightEditText = FindViewById<EditText> (BMICalculator.Android.Resources.Id.weightEditText);
 
             calculateButton.Click += CalculateButton_Click;
         }
